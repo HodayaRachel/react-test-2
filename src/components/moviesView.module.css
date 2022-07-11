@@ -1,0 +1,6 @@
+.listMovies {
+    width: 60%;
+    float: right;
+    align-items: right;
+    display: grid;
+}

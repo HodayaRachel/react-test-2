@@ -1,0 +1,25 @@
+.CardMovie {
+    height: 100%;
+}
+
+div.movieImgDiv {
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+
+img.movieImage {
+    width: 200px;
+    height: 200px;
+}
+
+div.movieDetailsDiv {
+    margin-top: 15px;
+    margin-right: 20px
+}
+
+.movieDetailsText {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: rgba(255, 0, 170, 0.479);
+}

@@ -1,0 +1,25 @@
+button.MenuBarButton {
+    width: auto;
+    margin: auto;
+    height: auto;
+    font-size: x-large;
+    font-family: cursive;
+    color: #f9fafb;
+    background-color: white;
+    /* border-block: initial; */
+    /* border-bottom: yellowgreen; */
+    border: solid 3px #f9fafb;
+    border-radius: 65px;
+    background-color: rgb(216, 112, 147);
+    box-shadow: 0 0 0 2px rgb(255, 255, 255),
+        0 0 0 4px  rgb(216, 112, 147);
+}
+
+button.MenuBarButton:hover{
+    background-color: rgba(216, 112, 147, 0.514);
+    border: solid 3px #f9fafbcc;
+}
+
+.RowMenuBarButtons{
+    margin-bottom: 5%;
+}
